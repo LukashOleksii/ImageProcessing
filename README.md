@@ -1,3 +1,3 @@
 # ImageProcessing
 
-##Lab_1 - Gaussian Blurred
+## Lab_1 - Gaussian Blurred
